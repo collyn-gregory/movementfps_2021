@@ -1,6 +1,8 @@
 # movementfps_2021
 A prototype movement FPS game I created between 2020 - 2021, it features rocket jumping and rudimentary grappling hook mechanics. 
 
+Download & extract the zip file, then run "Rocket Jumping FPS.exe" to play.
+
 ## Controls:
 WASD to move  
 Spacebar to jump  
